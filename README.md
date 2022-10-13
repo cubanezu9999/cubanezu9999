@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cubanezu9999
-- 👀 I’m interested in python now
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on web back end
+- 👀 I’m interested in JavaScript now
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me cubanezudark@gmail.com
 
 <!---
